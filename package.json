@@ -50,18 +50,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "chai": "^4.2.0",
-    "chai-exclude": "^2.0.2",
-    "codeceptjs": "^2.3.6",
-    "cucumber": "^6.0.5",
-    "cypress": "^3.6.1",
-    "cypress-cucumber-preprocessor": "^1.16.2",
-    "jest": "^24.9.0",
-    "jest-puppeteer": "^4.3.0",
-    "nodemon": "^2.0.1",
-    "picklejs": "^0.101.0",
-    "playwright": "^0.9.21",
-    "puppeteer": "^1.20.0",
-    "testcafe": "^1.7.0"
+    "nodemon": "^2.0.1"
   }
 }
