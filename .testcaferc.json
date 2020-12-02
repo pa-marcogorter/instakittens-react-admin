@@ -1,5 +1,0 @@
-{
-  "src": ["testcafe/globals.js", "testcafe/**/*.test.js"],
-  "browsers": "chrome:headless",
-  "concurrency": 4
-}

@@ -1,4 +1,0 @@
-{
-  "Profile Menu Button": ".headroom  button[title=Profile]",
-  "Logout Menu Item": "#menu-appbar .logout"
-}
